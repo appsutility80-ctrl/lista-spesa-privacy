@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Informativa sulla Privacy - Lista Spesa</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      line-height: 1.6;
+      max-width: 800px;
+      margin: 40px auto;
+      padding: 20px;
+      color: #333;
+      background-color: #fafafa;
+    }
+    h1, h2 {
+      color: #222;
+    }
+    h1 {
+      text-align: center;
+      border-bottom: 2px solid #ddd;
+      padding-bottom: 10px;
+    }
+    a {
+      color: #0066cc;
+      text-decoration: none;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+    footer {
+      text-align: center;
+      margin-top: 40px;
+      font-size: 0.9em;
+      color: #777;
+    }
+  </style>
+</head>
+<body>
+
+  <h1>Informativa sulla Privacy</h1>
+  <p><strong>Ultimo aggiornamento:</strong> Novembre 2025</p>
+
+  <p>Questa informativa sulla privacy descrive come l’app <strong>Lista Spesa</strong> gestisce i dati degli utenti. 
+  La tua privacy è importante per noi e ci impegniamo a proteggere le tue informazioni personali.</p>
+
+  <h2>1. Dati raccolti</h2>
+  <p>L’app <strong>non raccoglie né conserva alcun dato personale identificabile</strong>.</p>
+  <p>Tuttavia, per garantire il corretto funzionamento, l’app può accedere alle seguenti informazioni locali del dispositivo:</p>
+  <ul>
+    <li>Lingua impostata (per la visualizzazione automatica nella lingua corretta);</li>
+    <li>Orario e fuso orario del dispositivo (per funzioni interne di sincronizzazione).</li>
+  </ul>
+  <p>Queste informazioni rimangono sul dispositivo e non vengono trasmesse ai nostri server né a terze parti.</p>
+
+  <h2>2. Condivisione dei dati</h2>
+  <p>L’app consente la condivisione di liste o file tramite app di terze parti (es. app di messaggistica o social).
+  Tale condivisione avviene direttamente dall’utente e nessun dato viene inviato o archiviato dai nostri sistemi.</p>
+
+  <h2>3. Servizi di terze parti</h2>
+  <p>Attualmente l’app non utilizza servizi pubblicitari né di analisi.</p>
+  <p>In futuro, potranno essere introdotte funzionalità di abbonamento o acquisti in-app, gestiti esclusivamente tramite Google Play Store.
+  In tal caso, eventuali dati di pagamento o di account saranno trattati solo da Google, in conformità con la 
+  <a href="https://policies.google.com/privacy" target="_blank">Privacy Policy di Google</a>.</p>
+
+  <h2>4. Età minima</h2>
+  <p>L’app non è destinata a bambini di età inferiore a 13 anni. Se ritieni che un minore abbia utilizzato l’app o fornito informazioni, contattaci per richiederne la rimozione.</p>
+
+  <h2>5. Sicurezza</h2>
+  <p>Poiché l’app non raccoglie dati personali, nessuna informazione sensibile viene memorizzata o trasferita online.
+  Tutti i dati creati o gestiti dall’utente restano memorizzati esclusivamente sul dispositivo.</p>
+
+  <h2>6. Modifiche a questa informativa</h2>
+  <p>Ci riserviamo il diritto di aggiornare periodicamente questa informativa. Eventuali modifiche saranno pubblicate in questa pagina con la nuova data di aggiornamento.</p>
+
+  <h2>7. Contatti</h2>
+  <p>Per domande o richieste riguardanti la privacy, puoi contattarci all’indirizzo:<br>
+  📧 <a href="mailto:smartifyapps1@gmail.com">smartifyapps1@gmail.com</a></p>
+
+  <footer>
+    © 2025 <strong>Lista Spesa</strong> — Tutti i diritti riservati.
+  </footer>
+
+</body>
+</html>
